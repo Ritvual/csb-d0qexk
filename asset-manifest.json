@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ritvual.github.io/csb-d0qexk/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ritvual.github.io/csb-d0qexk/static/js/main.1c342e9c.chunk.js",
+    "main.js.map": "https://ritvual.github.io/csb-d0qexk/static/js/main.1c342e9c.chunk.js.map",
+    "runtime-main.js": "https://ritvual.github.io/csb-d0qexk/static/js/runtime-main.12aeec00.js",
+    "runtime-main.js.map": "https://ritvual.github.io/csb-d0qexk/static/js/runtime-main.12aeec00.js.map",
+    "static/js/2.c65d5156.chunk.js": "https://ritvual.github.io/csb-d0qexk/static/js/2.c65d5156.chunk.js",
+    "static/js/2.c65d5156.chunk.js.map": "https://ritvual.github.io/csb-d0qexk/static/js/2.c65d5156.chunk.js.map",
+    "index.html": "https://ritvual.github.io/csb-d0qexk/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ritvual.github.io/csb-d0qexk/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c65d5156.chunk.js.LICENSE.txt": "https://ritvual.github.io/csb-d0qexk/static/js/2.c65d5156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12aeec00.js",
+    "static/js/2.c65d5156.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1c342e9c.chunk.js"
+  ]
+}
